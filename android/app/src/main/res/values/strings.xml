@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ProfitNx CRM</string>
+    <string name="title_activity_main">ProfitNx CRM</string>
+    <string name="package_name">com.profitnx.crm</string>
+    <string name="custom_url_scheme">com.profitnx.crm</string>
+</resources>

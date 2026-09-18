@@ -1,0 +1,13 @@
+{
+  "appId": "com.profitnx.crm",
+  "appName": "ProfitNx CRM",
+  "webDir": "www",
+  "server": {
+    "url": "https://pnxcrm.onrender.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
